@@ -24,6 +24,7 @@ module.exports = {
     'react/jsx-filename-extension': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/no-unescaped-entities': 'off',
+    'jsx-a11y/anchor-is-valid': 'off',
   },
   settings: {
     react: {
